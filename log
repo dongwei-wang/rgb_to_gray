@@ -1,0 +1,3053 @@
+Image source directory: /home/wangd7/Desktop/pixel_processing/rgb_to_gray
+
+Processing img485.jpg
+Pixels count: 10597440
+CPU time: 17.6594 ms
+GPU time: 9.92688 ms
+
+Processing img161.jpg
+Pixels count: 24000000
+CPU time: 38.0334 ms
+GPU time: 24.4172 ms
+
+Processing img003.jpg
+Pixels count: 7990272
+CPU time: 12.3862 ms
+GPU time: 7.12349 ms
+
+Processing img057.jpg
+Pixels count: 41546232
+CPU time: 78.9822 ms
+GPU time: 51.5655 ms
+
+Processing img290.jpg
+Pixels count: 15138405
+CPU time: 25.2423 ms
+GPU time: 15.4094 ms
+
+Processing img148.jpg
+Pixels count: 24000000
+CPU time: 43.8308 ms
+GPU time: 23.0143 ms
+
+Processing img084.jpg
+Pixels count: 16926001
+CPU time: 29.121 ms
+GPU time: 14.2385 ms
+
+Processing img593.jpg
+Pixels count: 17635347
+CPU time: 29.6886 ms
+GPU time: 17.5961 ms
+
+Processing img160.jpg
+Pixels count: 23096664
+CPU time: 38.5761 ms
+GPU time: 21.709 ms
+
+Processing img299.jpg
+Pixels count: 11694032
+CPU time: 18.1936 ms
+GPU time: 9.82525 ms
+
+Processing img138.jpg
+Pixels count: 15560651
+CPU time: 23.9943 ms
+GPU time: 12.7606 ms
+
+Processing img554.jpg
+Pixels count: 19961856
+CPU time: 31.2079 ms
+GPU time: 17.4889 ms
+
+Processing img312.jpg
+Pixels count: 24000000
+CPU time: 36.9466 ms
+GPU time: 20.1765 ms
+
+Processing img269.jpg
+Pixels count: 10829916
+CPU time: 16.7102 ms
+GPU time: 9.16563 ms
+
+Processing img128.jpg
+Pixels count: 15629976
+CPU time: 24.0264 ms
+GPU time: 12.8253 ms
+
+Processing img066.jpg
+Pixels count: 4922368
+CPU time: 7.51152 ms
+GPU time: 4.57248 ms
+
+Processing img585.jpg
+Pixels count: 11716640
+CPU time: 17.956 ms
+GPU time: 9.82026 ms
+
+Processing img119.jpg
+Pixels count: 22618475
+CPU time: 34.6304 ms
+GPU time: 19.7178 ms
+
+Processing img284.jpg
+Pixels count: 15456150
+CPU time: 23.6399 ms
+GPU time: 12.6901 ms
+
+Processing img093.jpg
+Pixels count: 16084992
+CPU time: 24.5293 ms
+GPU time: 13.2631 ms
+
+Processing img196.jpg
+Pixels count: 15757742
+CPU time: 25.8861 ms
+GPU time: 13.4165 ms
+
+Processing img531.jpg
+Pixels count: 24160256
+CPU time: 36.9143 ms
+GPU time: 19.6932 ms
+
+Processing img256.jpg
+Pixels count: 15980544
+CPU time: 25.0718 ms
+GPU time: 14.3456 ms
+
+Processing img107.jpg
+Pixels count: 15746400
+CPU time: 24.7081 ms
+GPU time: 13.148 ms
+
+Processing img151.jpg
+Pixels count: 24000000
+CPU time: 37.1546 ms
+GPU time: 20.1235 ms
+
+Processing img167.jpg
+Pixels count: 15649350
+CPU time: 24.563 ms
+GPU time: 12.9828 ms
+
+Processing img291.jpg
+Pixels count: 15686784
+CPU time: 25.5789 ms
+GPU time: 15.6056 ms
+
+Processing img172.jpg
+Pixels count: 15980544
+CPU time: 24.4518 ms
+GPU time: 13.0004 ms
+
+Processing img310.jpg
+Pixels count: 12212224
+CPU time: 18.853 ms
+GPU time: 10.161 ms
+
+Processing img045.jpg
+Pixels count: 21026304
+CPU time: 32.1966 ms
+GPU time: 16.9151 ms
+
+Processing img053.jpg
+Pixels count: 42177408
+CPU time: 64.5614 ms
+GPU time: 35.1788 ms
+
+Processing img512.jpg
+Pixels count: 23301152
+CPU time: 36.6832 ms
+GPU time: 19.2477 ms
+
+Processing img523.jpg
+Pixels count: 24160256
+CPU time: 37.2429 ms
+GPU time: 19.4033 ms
+
+Processing img258.jpg
+Pixels count: 10255938
+CPU time: 15.7234 ms
+GPU time: 8.69763 ms
+
+Processing img097.jpg
+Pixels count: 16084992
+CPU time: 25.7335 ms
+GPU time: 14.4681 ms
+
+Processing img086.jpg
+Pixels count: 22118400
+CPU time: 34.711 ms
+GPU time: 19.3028 ms
+
+Processing img088.jpg
+Pixels count: 16084992
+CPU time: 24.6367 ms
+GPU time: 13.171 ms
+
+Processing img176.jpg
+Pixels count: 15184504
+CPU time: 23.319 ms
+GPU time: 12.4876 ms
+
+Processing img461.jpg
+Pixels count: 12212224
+CPU time: 18.8348 ms
+GPU time: 10.1774 ms
+
+Processing img472.jpg
+Pixels count: 24000000
+CPU time: 36.5075 ms
+GPU time: 19.2812 ms
+
+Processing img229.jpg
+Pixels count: 14921574
+CPU time: 23.3164 ms
+GPU time: 13.1457 ms
+
+Processing img188.jpg
+Pixels count: 15863256
+CPU time: 29.5075 ms
+GPU time: 15.1676 ms
+
+Processing img562.jpg
+Pixels count: 5358144
+CPU time: 8.26147 ms
+GPU time: 6.11734 ms
+
+Processing img579.jpg
+Pixels count: 7546572
+CPU time: 12.0173 ms
+GPU time: 6.62909 ms
+
+Processing img563.jpg
+Pixels count: 12719616
+CPU time: 19.7601 ms
+GPU time: 12.3844 ms
+
+Processing img527.jpg
+Pixels count: 20638720
+CPU time: 32.5106 ms
+GPU time: 18.855 ms
+
+Processing img504.jpg
+Pixels count: 24160256
+CPU time: 41.7604 ms
+GPU time: 24.5114 ms
+
+Processing img038.jpg
+Pixels count: 13124646
+CPU time: 23.4039 ms
+GPU time: 12.3429 ms
+
+Processing img565.jpg
+Pixels count: 12007680
+CPU time: 18.6807 ms
+GPU time: 12.0591 ms
+
+Processing img590.jpg
+Pixels count: 22118400
+CPU time: 34.8362 ms
+GPU time: 19.754 ms
+
+Processing img369.jpg
+Pixels count: 11176620
+CPU time: 18.1818 ms
+GPU time: 10.4775 ms
+
+Processing img063.jpg
+Pixels count: 5729548
+CPU time: 16.9005 ms
+GPU time: 5.7152 ms
+
+Processing img414.jpg
+Pixels count: 7102464
+CPU time: 21.6109 ms
+GPU time: 6.7241 ms
+
+Processing img491.jpg
+Pixels count: 16163840
+CPU time: 34.3314 ms
+GPU time: 15.7979 ms
+
+Processing img325.jpg
+Pixels count: 24000000
+CPU time: 40.0931 ms
+GPU time: 23.8865 ms
+
+Processing img481.jpg
+Pixels count: 6683421
+CPU time: 10.7824 ms
+GPU time: 6.99213 ms
+
+Processing img582.jpg
+Pixels count: 11750202
+CPU time: 22.9455 ms
+GPU time: 12.5899 ms
+
+Processing img212.jpg
+Pixels count: 12570090
+CPU time: 19.6809 ms
+GPU time: 11.2358 ms
+
+Processing img603.jpg
+Pixels count: 20633167
+CPU time: 33.567 ms
+GPU time: 19.7754 ms
+
+Processing img367.jpg
+Pixels count: 10194060
+CPU time: 18.6523 ms
+GPU time: 9.51014 ms
+
+Processing img464.jpg
+Pixels count: 12212224
+CPU time: 20.0366 ms
+GPU time: 10.9389 ms
+
+Processing img506.jpg
+Pixels count: 24160256
+CPU time: 40.5172 ms
+GPU time: 22.5134 ms
+
+Processing img366.jpg
+Pixels count: 8875584
+CPU time: 15.4414 ms
+GPU time: 7.9825 ms
+
+Processing img044.jpg
+Pixels count: 19449001
+CPU time: 31.946 ms
+GPU time: 20.4936 ms
+
+Processing img232.jpg
+Pixels count: 15583205
+CPU time: 24.6581 ms
+GPU time: 14.2889 ms
+
+Processing img132.jpg
+Pixels count: 15980544
+CPU time: 26.5705 ms
+GPU time: 17.2442 ms
+
+Processing img490.jpg
+Pixels count: 9540720
+CPU time: 15.9493 ms
+GPU time: 10.4728 ms
+
+Processing img239.jpg
+Pixels count: 13935456
+CPU time: 23.7775 ms
+GPU time: 15.5506 ms
+
+Processing img346.jpg
+Pixels count: 24000000
+CPU time: 39.7815 ms
+GPU time: 21.0144 ms
+
+Processing img503.jpg
+Pixels count: 21766520
+CPU time: 34.9864 ms
+GPU time: 19.7513 ms
+
+Processing img067.jpg
+Pixels count: 6000000
+CPU time: 9.45216 ms
+GPU time: 5.42326 ms
+
+Processing img267.jpg
+Pixels count: 10765524
+CPU time: 17.4992 ms
+GPU time: 9.19402 ms
+
+Processing img441.jpg
+Pixels count: 22118400
+CPU time: 34.9946 ms
+GPU time: 19.5834 ms
+
+Processing img177.jpg
+Pixels count: 15980544
+CPU time: 25.7156 ms
+GPU time: 13.3193 ms
+
+Processing img484.jpg
+Pixels count: 7860419
+CPU time: 12.6447 ms
+GPU time: 6.89706 ms
+
+Processing img275.jpg
+Pixels count: 15718872
+CPU time: 25.7724 ms
+GPU time: 13.4966 ms
+
+Processing img280.jpg
+Pixels count: 15980544
+CPU time: 26.1133 ms
+GPU time: 13.574 ms
+
+Processing img356.jpg
+Pixels count: 11176620
+CPU time: 17.9318 ms
+GPU time: 10.5531 ms
+
+Processing img520.jpg
+Pixels count: 20464752
+CPU time: 32.8749 ms
+GPU time: 18.846 ms
+
+Processing img307.jpg
+Pixels count: 11922918
+CPU time: 19.2311 ms
+GPU time: 10.9736 ms
+
+Processing img339.jpg
+Pixels count: 24000000
+CPU time: 38.3877 ms
+GPU time: 19.471 ms
+
+Processing img586.jpg
+Pixels count: 19961856
+CPU time: 32.5716 ms
+GPU time: 18.3908 ms
+
+Processing img015.jpg
+Pixels count: 17915904
+CPU time: 29.9692 ms
+GPU time: 17.33 ms
+
+Processing img521.jpg
+Pixels count: 21880950
+CPU time: 37.4116 ms
+GPU time: 22.1509 ms
+
+Processing img492.jpg
+Pixels count: 14169594
+CPU time: 23.534 ms
+GPU time: 14.792 ms
+
+Processing img333.jpg
+Pixels count: 24000000
+CPU time: 40.2397 ms
+GPU time: 25.3949 ms
+
+Processing img032.jpg
+Pixels count: 14433456
+CPU time: 24.1627 ms
+GPU time: 16.286 ms
+
+Processing img533.jpg
+Pixels count: 24160256
+CPU time: 42.3003 ms
+GPU time: 23.7386 ms
+
+Processing img094.jpg
+Pixels count: 16163840
+CPU time: 28.4964 ms
+GPU time: 17.4831 ms
+
+Processing img555.jpg
+Pixels count: 11378139
+CPU time: 19.8187 ms
+GPU time: 12.3485 ms
+
+Processing img584.jpg
+Pixels count: 19961856
+CPU time: 36.8651 ms
+GPU time: 17.3698 ms
+
+Processing img123.jpg
+Pixels count: 15980544
+CPU time: 31.6512 ms
+GPU time: 13.3514 ms
+
+Processing img263.jpg
+Pixels count: 12212224
+CPU time: 21.1047 ms
+GPU time: 10.7254 ms
+
+Processing img606.jpg
+Pixels count: 21026304
+CPU time: 36.1486 ms
+GPU time: 20.4412 ms
+
+Processing img572.jpg
+Pixels count: 12719616
+CPU time: 22.181 ms
+GPU time: 13.1576 ms
+
+Processing img076.jpg
+Pixels count: 16634842
+CPU time: 27.83 ms
+GPU time: 14.9265 ms
+
+Processing img309.jpg
+Pixels count: 15264150
+CPU time: 27.7229 ms
+GPU time: 18.4084 ms
+
+Processing img428.jpg
+Pixels count: 22118400
+CPU time: 36.4098 ms
+GPU time: 23.2308 ms
+
+Processing img609.jpg
+Pixels count: 19526496
+CPU time: 33.5185 ms
+GPU time: 19.4212 ms
+
+Processing img435.jpg
+Pixels count: 22118400
+CPU time: 35.3727 ms
+GPU time: 17.9259 ms
+
+Processing img355.jpg
+Pixels count: 5955000
+CPU time: 9.44266 ms
+GPU time: 6.0351 ms
+
+Processing img089.jpg
+Pixels count: 16483716
+CPU time: 26.8323 ms
+GPU time: 17.3574 ms
+
+Processing img127.jpg
+Pixels count: 15980544
+CPU time: 25.9119 ms
+GPU time: 17.6564 ms
+
+Processing img380.jpg
+Pixels count: 10226812
+CPU time: 15.5452 ms
+GPU time: 11.5065 ms
+
+Processing img314.jpg
+Pixels count: 22118400
+CPU time: 35.9385 ms
+GPU time: 18.9673 ms
+
+Processing img471.jpg
+Pixels count: 24000000
+CPU time: 38.5606 ms
+GPU time: 25.7029 ms
+
+Processing img226.jpg
+Pixels count: 13735014
+CPU time: 21.6779 ms
+GPU time: 13.4979 ms
+
+Processing img397.jpg
+Pixels count: 22118400
+CPU time: 38.5637 ms
+GPU time: 25.1011 ms
+
+Processing img501.jpg
+Pixels count: 23667150
+CPU time: 42.7766 ms
+GPU time: 22.0756 ms
+
+Processing img327.jpg
+Pixels count: 24000000
+CPU time: 38.7972 ms
+GPU time: 25.2259 ms
+
+Processing img410.jpg
+Pixels count: 2795520
+CPU time: 4.34397 ms
+GPU time: 2.80432 ms
+
+Processing img595.jpg
+Pixels count: 22118400
+CPU time: 35.9548 ms
+GPU time: 23.5324 ms
+
+Processing img600.jpg
+Pixels count: 21879051
+CPU time: 35.3478 ms
+GPU time: 22.7471 ms
+
+Processing img289.jpg
+Pixels count: 13716864
+CPU time: 23.7212 ms
+GPU time: 13.1109 ms
+
+Processing img135.jpg
+Pixels count: 15214745
+CPU time: 24.2576 ms
+GPU time: 18.7526 ms
+
+Processing img577.jpg
+Pixels count: 11956672
+CPU time: 20.0459 ms
+GPU time: 10.9876 ms
+
+Processing img213.jpg
+Pixels count: 15398424
+CPU time: 24.8359 ms
+GPU time: 18.4306 ms
+
+Processing img278.jpg
+Pixels count: 14770566
+CPU time: 25.5865 ms
+GPU time: 16.2559 ms
+
+Processing img571.jpg
+Pixels count: 7538272
+CPU time: 13.9082 ms
+GPU time: 7.62531 ms
+
+Processing img293.jpg
+Pixels count: 15980544
+CPU time: 26.6292 ms
+GPU time: 14.4493 ms
+
+Processing img343.jpg
+Pixels count: 24000000
+CPU time: 43.161 ms
+GPU time: 26.2261 ms
+
+Processing img412.jpg
+Pixels count: 17348501
+CPU time: 27.9052 ms
+GPU time: 21.5276 ms
+
+Processing img596.jpg
+Pixels count: 19874400
+CPU time: 32.9229 ms
+GPU time: 19.5349 ms
+
+Processing img374.jpg
+Pixels count: 11176620
+CPU time: 17.4139 ms
+GPU time: 9.51613 ms
+
+Processing img170.jpg
+Pixels count: 15746400
+CPU time: 26.2034 ms
+GPU time: 14.0079 ms
+
+Processing img496.jpg
+Pixels count: 12052992
+CPU time: 35.6366 ms
+GPU time: 10.69 ms
+
+Processing img008.jpg
+Pixels count: 7990272
+CPU time: 12.2804 ms
+GPU time: 7.76634 ms
+
+Processing img187.jpg
+Pixels count: 15980544
+CPU time: 27.5144 ms
+GPU time: 14.973 ms
+
+Processing img311.jpg
+Pixels count: 22118400
+CPU time: 35.7942 ms
+GPU time: 20.3769 ms
+
+Processing img477.jpg
+Pixels count: 16163840
+CPU time: 30.5938 ms
+GPU time: 16.8624 ms
+
+Processing img231.jpg
+Pixels count: 12217974
+CPU time: 24.658 ms
+GPU time: 10.2071 ms
+
+Processing img599.jpg
+Pixels count: 22118400
+CPU time: 39.5364 ms
+GPU time: 23.1213 ms
+
+Processing img510.jpg
+Pixels count: 23514470
+CPU time: 41.4604 ms
+GPU time: 26.3944 ms
+
+Processing img100.jpg
+Pixels count: 17915904
+CPU time: 34.162 ms
+GPU time: 18.2282 ms
+
+Processing img200.jpg
+Pixels count: 15715635
+CPU time: 25.7329 ms
+GPU time: 18.1908 ms
+
+Processing img106.jpg
+Pixels count: 24000000
+CPU time: 43.0204 ms
+GPU time: 21.9355 ms
+
+Processing img298.jpg
+Pixels count: 13238776
+CPU time: 22.2797 ms
+GPU time: 15.348 ms
+
+Processing img251.jpg
+Pixels count: 14601600
+CPU time: 26.0714 ms
+GPU time: 17.981 ms
+
+Processing img049.jpg
+Pixels count: 21026304
+CPU time: 39.6713 ms
+GPU time: 18.7731 ms
+
+Processing img264.jpg
+Pixels count: 12212224
+CPU time: 19.0376 ms
+GPU time: 10.4608 ms
+
+Processing img437.jpg
+Pixels count: 22118400
+CPU time: 40.826 ms
+GPU time: 24.3998 ms
+
+Processing img317.jpg
+Pixels count: 24000000
+CPU time: 39.6669 ms
+GPU time: 21.23 ms
+
+Processing img002.jpg
+Pixels count: 7990272
+CPU time: 12.7519 ms
+GPU time: 8.30192 ms
+
+Processing img432.jpg
+Pixels count: 22118400
+CPU time: 35.9645 ms
+GPU time: 22.3656 ms
+
+Processing img099.jpg
+Pixels count: 16084992
+CPU time: 26.0852 ms
+GPU time: 17.6656 ms
+
+Processing img360.jpg
+Pixels count: 11209372
+CPU time: 17.6614 ms
+GPU time: 9.52224 ms
+
+Processing img592.jpg
+Pixels count: 18967704
+CPU time: 29.2637 ms
+GPU time: 24.0403 ms
+
+Processing img203.jpg
+Pixels count: 15980544
+CPU time: 26.3471 ms
+GPU time: 16.9892 ms
+
+Processing img605.jpg
+Pixels count: 19883501
+CPU time: 32.9816 ms
+GPU time: 20.9751 ms
+
+Processing img074.jpg
+Pixels count: 19019301
+CPU time: 31.3699 ms
+GPU time: 16.6739 ms
+
+Processing img087.jpg
+Pixels count: 16084992
+CPU time: 26.2792 ms
+GPU time: 14.4795 ms
+
+Processing img277.jpg
+Pixels count: 12166656
+CPU time: 20.5872 ms
+GPU time: 10.6851 ms
+
+Processing img235.jpg
+Pixels count: 15980544
+CPU time: 25.6517 ms
+GPU time: 13.3759 ms
+
+Processing img474.jpg
+Pixels count: 12827580
+CPU time: 21.3282 ms
+GPU time: 11.6309 ms
+
+Processing img370.jpg
+Pixels count: 11176620
+CPU time: 19.2033 ms
+GPU time: 9.63728 ms
+
+Processing img034.jpg
+Pixels count: 36152320
+CPU time: 60.1043 ms
+GPU time: 34.9727 ms
+
+Processing img316.jpg
+Pixels count: 24000000
+CPU time: 39.5995 ms
+GPU time: 20.9998 ms
+
+Processing img083.jpg
+Pixels count: 19874400
+CPU time: 30.4835 ms
+GPU time: 16.1071 ms
+
+Processing img489.jpg
+Pixels count: 13941542
+CPU time: 23.3377 ms
+GPU time: 13.2645 ms
+
+Processing img385.jpg
+Pixels count: 8249710
+CPU time: 13.0033 ms
+GPU time: 7.29501 ms
+
+Processing img143.jpg
+Pixels count: 15980544
+CPU time: 26.2674 ms
+GPU time: 15.4615 ms
+
+Processing img029.jpg
+Pixels count: 15811096
+CPU time: 24.4503 ms
+GPU time: 13.2312 ms
+
+Processing img604.jpg
+Pixels count: 21026304
+CPU time: 36.3619 ms
+GPU time: 21.2089 ms
+
+Processing img457.jpg
+Pixels count: 24000000
+CPU time: 39.5985 ms
+GPU time: 21.4512 ms
+
+Processing img539.jpg
+Pixels count: 22118400
+CPU time: 35.3104 ms
+GPU time: 21.9414 ms
+
+Processing img206.jpg
+Pixels count: 12183750
+CPU time: 20.0769 ms
+GPU time: 14.1936 ms
+
+Processing img079.jpg
+Pixels count: 18967704
+CPU time: 32.1724 ms
+GPU time: 17.741 ms
+
+Processing img455.jpg
+Pixels count: 24000000
+CPU time: 38.1451 ms
+GPU time: 24.1486 ms
+
+Processing img020.jpg
+Pixels count: 16653336
+CPU time: 26.2366 ms
+GPU time: 15.0692 ms
+
+Processing img469.jpg
+Pixels count: 11560612
+CPU time: 20.3764 ms
+GPU time: 13.6658 ms
+
+Processing img507.jpg
+Pixels count: 22147200
+CPU time: 36.0629 ms
+GPU time: 18.9655 ms
+
+Processing img077.jpg
+Pixels count: 22118400
+CPU time: 35.9445 ms
+GPU time: 18.89 ms
+
+Processing img528.jpg
+Pixels count: 24160256
+CPU time: 38.9423 ms
+GPU time: 22.6319 ms
+
+Processing img318.jpg
+Pixels count: 24000000
+CPU time: 39.325 ms
+GPU time: 21.8023 ms
+
+Processing img498.jpg
+Pixels count: 18909066
+CPU time: 31.6599 ms
+GPU time: 16.7393 ms
+
+Processing img042.jpg
+Pixels count: 41417280
+CPU time: 68.5676 ms
+GPU time: 42.0901 ms
+
+Processing img544.jpg
+Pixels count: 11519047
+CPU time: 18.0132 ms
+GPU time: 9.69645 ms
+
+Processing img065.jpg
+Pixels count: 18069825
+CPU time: 30.2161 ms
+GPU time: 19.0377 ms
+
+Processing img406.jpg
+Pixels count: 22118400
+CPU time: 36.7505 ms
+GPU time: 20.7384 ms
+
+Processing img411.jpg
+Pixels count: 2795520
+CPU time: 4.50509 ms
+GPU time: 3.38054 ms
+
+Processing img174.jpg
+Pixels count: 13546540
+CPU time: 20.7605 ms
+GPU time: 15.8149 ms
+
+Processing img012.jpg
+Pixels count: 17915904
+CPU time: 29.1156 ms
+GPU time: 17.9675 ms
+
+Processing img551.jpg
+Pixels count: 12007680
+CPU time: 20.3438 ms
+GPU time: 10.4783 ms
+
+Processing img529.jpg
+Pixels count: 24160256
+CPU time: 38.8207 ms
+GPU time: 28.8611 ms
+
+Processing img055.jpg
+Pixels count: 34273344
+CPU time: 55.4441 ms
+GPU time: 36.1386 ms
+
+Processing img071.jpg
+Pixels count: 19961856
+CPU time: 34.071 ms
+GPU time: 19.7023 ms
+
+Processing img090.jpg
+Pixels count: 15277203
+CPU time: 24.7566 ms
+GPU time: 13.3781 ms
+
+Processing img122.jpg
+Pixels count: 14266584
+CPU time: 22.8931 ms
+GPU time: 14.6452 ms
+
+Processing img500.jpg
+Pixels count: 24160256
+CPU time: 38.6572 ms
+GPU time: 27.2095 ms
+
+Processing img179.jpg
+Pixels count: 9338785
+CPU time: 15.461 ms
+GPU time: 8.01104 ms
+
+Processing img313.jpg
+Pixels count: 24000000
+CPU time: 38.6525 ms
+GPU time: 26.5132 ms
+
+Processing img548.jpg
+Pixels count: 12217974
+CPU time: 19.6769 ms
+GPU time: 10.3956 ms
+
+Processing img013.jpg
+Pixels count: 13851648
+CPU time: 24.3165 ms
+GPU time: 16.1731 ms
+
+Processing img306.jpg
+Pixels count: 14853840
+CPU time: 25.0915 ms
+GPU time: 12.6798 ms
+
+Processing img315.jpg
+Pixels count: 22824751
+CPU time: 37.6852 ms
+GPU time: 22.7984 ms
+
+Processing img272.jpg
+Pixels count: 15398424
+CPU time: 29.1986 ms
+GPU time: 14.3121 ms
+
+Processing img319.jpg
+Pixels count: 24000000
+CPU time: 42.1014 ms
+GPU time: 24.9891 ms
+
+Processing img158.jpg
+Pixels count: 15513984
+CPU time: 25.046 ms
+GPU time: 15.7109 ms
+
+Processing img139.jpg
+Pixels count: 15980544
+CPU time: 26.0317 ms
+GPU time: 13.3234 ms
+
+Processing img540.jpg
+Pixels count: 22118400
+CPU time: 36.72 ms
+GPU time: 18.6427 ms
+
+Processing img384.jpg
+Pixels count: 16892064
+CPU time: 28.6541 ms
+GPU time: 15.8965 ms
+
+Processing img420.jpg
+Pixels count: 22118400
+CPU time: 36.5257 ms
+GPU time: 20.291 ms
+
+Processing img597.jpg
+Pixels count: 16926001
+CPU time: 27.902 ms
+GPU time: 18.4809 ms
+
+Processing img164.jpg
+Pixels count: 15715635
+CPU time: 25.6865 ms
+GPU time: 18.6448 ms
+
+Processing img108.jpg
+Pixels count: 24000000
+CPU time: 39.4961 ms
+GPU time: 19.9733 ms
+
+Processing img373.jpg
+Pixels count: 11176620
+CPU time: 18.6446 ms
+GPU time: 13.0376 ms
+
+Processing img558.jpg
+Pixels count: 11549550
+CPU time: 18.5772 ms
+GPU time: 12.9817 ms
+
+Processing img451.jpg
+Pixels count: 12212224
+CPU time: 19.3489 ms
+GPU time: 15.7633 ms
+
+Processing img569.jpg
+Pixels count: 8185344
+CPU time: 14.0604 ms
+GPU time: 8.65658 ms
+
+Processing img575.jpg
+Pixels count: 12719616
+CPU time: 19.8491 ms
+GPU time: 15.8788 ms
+
+Processing img364.jpg
+Pixels count: 9980667
+CPU time: 17.2949 ms
+GPU time: 8.8648 ms
+
+Processing img201.jpg
+Pixels count: 9716810
+CPU time: 16.5739 ms
+GPU time: 8.22429 ms
+
+Processing img098.jpg
+Pixels count: 16084992
+CPU time: 27.2582 ms
+GPU time: 15.4047 ms
+
+Processing img394.jpg
+Pixels count: 22118400
+CPU time: 35.3019 ms
+GPU time: 24.458 ms
+
+Processing img244.jpg
+Pixels count: 15980544
+CPU time: 26.0809 ms
+GPU time: 13.5563 ms
+
+Processing img173.jpg
+Pixels count: 15980544
+CPU time: 26.8077 ms
+GPU time: 14.1044 ms
+
+Processing img068.jpg
+Pixels count: 13307904
+CPU time: 23.0166 ms
+GPU time: 14.8092 ms
+
+Processing img189.jpg
+Pixels count: 14875876
+CPU time: 25.1652 ms
+GPU time: 13.3198 ms
+
+Processing img487.jpg
+Pixels count: 8720582
+CPU time: 14.1545 ms
+GPU time: 7.58954 ms
+
+Processing img589.jpg
+Pixels count: 16634842
+CPU time: 27.1228 ms
+GPU time: 15.1521 ms
+
+Processing img246.jpg
+Pixels count: 13078837
+CPU time: 20.918 ms
+GPU time: 16.3693 ms
+
+Processing img050.jpg
+Pixels count: 28207442
+CPU time: 45.238 ms
+GPU time: 26.7987 ms
+
+Processing img580.jpg
+Pixels count: 8023797
+CPU time: 12.5032 ms
+GPU time: 7.09638 ms
+
+Processing img475.jpg
+Pixels count: 8249703
+CPU time: 14.4835 ms
+GPU time: 8.85738 ms
+
+Processing img557.jpg
+Pixels count: 4708900
+CPU time: 7.48627 ms
+GPU time: 4.52746 ms
+
+Processing img534.jpg
+Pixels count: 24160256
+CPU time: 37.8065 ms
+GPU time: 22.7359 ms
+
+Processing img156.jpg
+Pixels count: 15980544
+CPU time: 26.5393 ms
+GPU time: 13.4972 ms
+
+Processing img468.jpg
+Pixels count: 11901825
+CPU time: 19.1854 ms
+GPU time: 13.3492 ms
+
+Processing img145.jpg
+Pixels count: 14687526
+CPU time: 24.3684 ms
+GPU time: 15.9641 ms
+
+Processing img024.jpg
+Pixels count: 12000000
+CPU time: 18.7976 ms
+GPU time: 12.4532 ms
+
+Processing img136.jpg
+Pixels count: 15494694
+CPU time: 25.5866 ms
+GPU time: 12.9354 ms
+
+Processing img460.jpg
+Pixels count: 24000000
+CPU time: 39.0404 ms
+GPU time: 24.9889 ms
+
+Processing img401.jpg
+Pixels count: 22118400
+CPU time: 35.7051 ms
+GPU time: 18.0316 ms
+
+Processing img448.jpg
+Pixels count: 2797568
+CPU time: 4.20099 ms
+GPU time: 2.79482 ms
+
+Processing img608.jpg
+Pixels count: 21026304
+CPU time: 33.717 ms
+GPU time: 18.9969 ms
+
+Processing img546.jpg
+Pixels count: 12719616
+CPU time: 22.4487 ms
+GPU time: 11.9808 ms
+
+Processing img581.jpg
+Pixels count: 13307904
+CPU time: 22.6371 ms
+GPU time: 11.0522 ms
+
+Processing img363.jpg
+Pixels count: 14770566
+CPU time: 23.17 ms
+GPU time: 14.4139 ms
+
+Processing img440.jpg
+Pixels count: 22118400
+CPU time: 36.9674 ms
+GPU time: 21.4092 ms
+
+Processing img403.jpg
+Pixels count: 22118400
+CPU time: 37.3738 ms
+GPU time: 18.3922 ms
+
+Processing img483.jpg
+Pixels count: 7113344
+CPU time: 11.4869 ms
+GPU time: 6.25382 ms
+
+Processing img059.jpg
+Pixels count: 33934782
+CPU time: 54.9415 ms
+GPU time: 29.7579 ms
+
+Processing img220.jpg
+Pixels count: 8755584
+CPU time: 14.9417 ms
+GPU time: 8.00749 ms
+
+Processing img303.jpg
+Pixels count: 15980544
+CPU time: 26.722 ms
+GPU time: 14.8274 ms
+
+Processing img216.jpg
+Pixels count: 15980544
+CPU time: 25.7701 ms
+GPU time: 14.133 ms
+
+Processing img395.jpg
+Pixels count: 22118400
+CPU time: 36.5015 ms
+GPU time: 24.981 ms
+
+Processing img000.jpg
+Pixels count: 7990272
+CPU time: 13.92 ms
+GPU time: 10.3395 ms
+
+Processing img321.jpg
+Pixels count: 24000000
+CPU time: 40.0014 ms
+GPU time: 20.9051 ms
+
+Processing img568.jpg
+Pixels count: 7542088
+CPU time: 13.4393 ms
+GPU time: 8.19216 ms
+
+Processing img393.jpg
+Pixels count: 22118400
+CPU time: 35.7484 ms
+GPU time: 25.9384 ms
+
+Processing img103.jpg
+Pixels count: 16084992
+CPU time: 26.204 ms
+GPU time: 13.5723 ms
+
+Processing img351.jpg
+Pixels count: 24000000
+CPU time: 39.1028 ms
+GPU time: 26.804 ms
+
+Processing img007.jpg
+Pixels count: 11228544
+CPU time: 17.4306 ms
+GPU time: 9.48582 ms
+
+Processing img281.jpg
+Pixels count: 15980544
+CPU time: 25.9579 ms
+GPU time: 19.0063 ms
+
+Processing img192.jpg
+Pixels count: 15638047
+CPU time: 25.1952 ms
+GPU time: 14.8848 ms
+
+Processing img116.jpg
+Pixels count: 22322279
+CPU time: 35.4195 ms
+GPU time: 21.0874 ms
+
+Processing img274.jpg
+Pixels count: 15571926
+CPU time: 25.6368 ms
+GPU time: 14.6574 ms
+
+Processing img550.jpg
+Pixels count: 10974185
+CPU time: 18.0816 ms
+GPU time: 13.5612 ms
+
+Processing img332.jpg
+Pixels count: 24000000
+CPU time: 39.1166 ms
+GPU time: 23.1879 ms
+
+Processing img001.jpg
+Pixels count: 7990272
+CPU time: 14.1502 ms
+GPU time: 7.02269 ms
+
+Processing img142.jpg
+Pixels count: 17771046
+CPU time: 30.3012 ms
+GPU time: 17.1527 ms
+
+Processing img392.jpg
+Pixels count: 22118400
+CPU time: 36.8505 ms
+GPU time: 19.5162 ms
+
+Processing img252.jpg
+Pixels count: 15668736
+CPU time: 23.4406 ms
+GPU time: 12.847 ms
+
+Processing img036.jpg
+Pixels count: 14218677
+CPU time: 22.4183 ms
+GPU time: 17.3049 ms
+
+Processing img331.jpg
+Pixels count: 24000000
+CPU time: 49.4787 ms
+GPU time: 22.4533 ms
+
+Processing img111.jpg
+Pixels count: 24000000
+CPU time: 39.8452 ms
+GPU time: 19.541 ms
+
+Processing img416.jpg
+Pixels count: 22118400
+CPU time: 36.4061 ms
+GPU time: 23.2026 ms
+
+Processing img271.jpg
+Pixels count: 15980544
+CPU time: 25.532 ms
+GPU time: 19.9338 ms
+
+Processing img382.jpg
+Pixels count: 5991000
+CPU time: 9.71245 ms
+GPU time: 5.71088 ms
+
+Processing img250.jpg
+Pixels count: 15168600
+CPU time: 24.7594 ms
+GPU time: 15.5554 ms
+
+Processing img422.jpg
+Pixels count: 16776848
+CPU time: 27.5428 ms
+GPU time: 14.3764 ms
+
+Processing img566.jpg
+Pixels count: 11052756
+CPU time: 18.3768 ms
+GPU time: 12.3837 ms
+
+Processing img285.jpg
+Pixels count: 14751744
+CPU time: 25.9617 ms
+GPU time: 13.8616 ms
+
+Processing img329.jpg
+Pixels count: 24000000
+CPU time: 37.8866 ms
+GPU time: 24.0773 ms
+
+Processing img391.jpg
+Pixels count: 21898151
+CPU time: 37.4913 ms
+GPU time: 23.9407 ms
+
+Processing img430.jpg
+Pixels count: 22118400
+CPU time: 35.9215 ms
+GPU time: 20.1775 ms
+
+Processing img552.jpg
+Pixels count: 11761388
+CPU time: 19.5959 ms
+GPU time: 13.9001 ms
+
+Processing img129.jpg
+Pixels count: 12849530
+CPU time: 20.0924 ms
+GPU time: 10.9554 ms
+
+Processing img092.jpg
+Pixels count: 16084992
+CPU time: 25.0874 ms
+GPU time: 19.2945 ms
+
+Processing img349.jpg
+Pixels count: 24000000
+CPU time: 42.8852 ms
+GPU time: 22.4613 ms
+
+Processing img308.jpg
+Pixels count: 8882853
+CPU time: 15.7031 ms
+GPU time: 9.38784 ms
+
+Processing img560.jpg
+Pixels count: 12719616
+CPU time: 21.8841 ms
+GPU time: 14.9277 ms
+
+Processing img511.jpg
+Pixels count: 21244006
+CPU time: 35.9842 ms
+GPU time: 18.189 ms
+
+Processing img023.jpg
+Pixels count: 17915904
+CPU time: 31.1676 ms
+GPU time: 17.7519 ms
+
+Processing img524.jpg
+Pixels count: 22820841
+CPU time: 38.5259 ms
+GPU time: 22.7272 ms
+
+Processing img019.jpg
+Pixels count: 17915904
+CPU time: 29.4675 ms
+GPU time: 19.3184 ms
+
+Processing img080.jpg
+Pixels count: 17635347
+CPU time: 29.2026 ms
+GPU time: 16.9548 ms
+
+Processing img040.jpg
+Pixels count: 42177408
+CPU time: 69.9821 ms
+GPU time: 38.5226 ms
+
+Processing img180.jpg
+Pixels count: 15980544
+CPU time: 25.4326 ms
+GPU time: 17.4265 ms
+
+Processing img186.jpg
+Pixels count: 15894165
+CPU time: 25.0505 ms
+GPU time: 19.126 ms
+
+Processing img556.jpg
+Pixels count: 3715749
+CPU time: 5.69034 ms
+GPU time: 5.3855 ms
+
+Processing img017.jpg
+Pixels count: 17915904
+CPU time: 28.7779 ms
+GPU time: 23.2532 ms
+
+Processing img424.jpg
+Pixels count: 22118400
+CPU time: 35.6355 ms
+GPU time: 22.2234 ms
+
+Processing img204.jpg
+Pixels count: 12212224
+CPU time: 20.6603 ms
+GPU time: 14.4014 ms
+
+Processing img144.jpg
+Pixels count: 14646875
+CPU time: 22.4931 ms
+GPU time: 17.0315 ms
+
+Processing img553.jpg
+Pixels count: 19961856
+CPU time: 33.5002 ms
+GPU time: 21.6779 ms
+
+Processing img513.jpg
+Pixels count: 24160256
+CPU time: 40.5172 ms
+GPU time: 24.3323 ms
+
+Processing img421.jpg
+Pixels count: 22118400
+CPU time: 36.2086 ms
+GPU time: 25.4337 ms
+
+Processing img335.jpg
+Pixels count: 24000000
+CPU time: 38.5904 ms
+GPU time: 21.0176 ms
+
+Processing img266.jpg
+Pixels count: 12212224
+CPU time: 19.8944 ms
+GPU time: 14.4302 ms
+
+Processing img048.jpg
+Pixels count: 20105280
+CPU time: 33.8523 ms
+GPU time: 19.0329 ms
+
+Processing img502.jpg
+Pixels count: 24160256
+CPU time: 40.2047 ms
+GPU time: 26.0013 ms
+
+Processing img238.jpg
+Pixels count: 12212224
+CPU time: 20.9573 ms
+GPU time: 15.7417 ms
+
+Processing img218.jpg
+Pixels count: 15707544
+CPU time: 27.0378 ms
+GPU time: 14.9096 ms
+
+Processing img362.jpg
+Pixels count: 11176620
+CPU time: 18.2102 ms
+GPU time: 9.656 ms
+
+Processing img217.jpg
+Pixels count: 14045400
+CPU time: 22.4848 ms
+GPU time: 16.3786 ms
+
+Processing img191.jpg
+Pixels count: 15390415
+CPU time: 24.9882 ms
+GPU time: 13.0349 ms
+
+Processing img146.jpg
+Pixels count: 23938040
+CPU time: 41.0092 ms
+GPU time: 22.8419 ms
+
+Processing img153.jpg
+Pixels count: 15680050
+CPU time: 25.0867 ms
+GPU time: 13.1017 ms
+
+Processing img247.jpg
+Pixels count: 13241747
+CPU time: 21.3519 ms
+GPU time: 11.2017 ms
+
+Processing img476.jpg
+Pixels count: 13621764
+CPU time: 22.8606 ms
+GPU time: 12.8996 ms
+
+Processing img286.jpg
+Pixels count: 15980544
+CPU time: 25.4579 ms
+GPU time: 18.9513 ms
+
+Processing img168.jpg
+Pixels count: 15467387
+CPU time: 24.374 ms
+GPU time: 14.5214 ms
+
+Processing img341.jpg
+Pixels count: 24000000
+CPU time: 39.3821 ms
+GPU time: 25.1064 ms
+
+Processing img522.jpg
+Pixels count: 21606822
+CPU time: 35.9132 ms
+GPU time: 19.229 ms
+
+Processing img426.jpg
+Pixels count: 22118400
+CPU time: 35.8317 ms
+GPU time: 26.5973 ms
+
+Processing img016.jpg
+Pixels count: 17915904
+CPU time: 30.432 ms
+GPU time: 15.4539 ms
+
+Processing img062.jpg
+Pixels count: 30058592
+CPU time: 53.711 ms
+GPU time: 33.223 ms
+
+Processing img514.jpg
+Pixels count: 24160256
+CPU time: 39.4862 ms
+GPU time: 24.3784 ms
+
+Processing img126.jpg
+Pixels count: 15980544
+CPU time: 25.0869 ms
+GPU time: 13.2827 ms
+
+Processing img202.jpg
+Pixels count: 15092376
+CPU time: 25.0885 ms
+GPU time: 18.165 ms
+
+Processing img031.jpg
+Pixels count: 16084992
+CPU time: 25.0063 ms
+GPU time: 13.3411 ms
+
+Processing img175.jpg
+Pixels count: 15980544
+CPU time: 25.1091 ms
+GPU time: 13.2318 ms
+
+Processing img081.jpg
+Pixels count: 18912626
+CPU time: 31.1892 ms
+GPU time: 17.2604 ms
+
+Processing img137.jpg
+Pixels count: 15233860
+CPU time: 25.2199 ms
+GPU time: 14.086 ms
+
+Processing img075.jpg
+Pixels count: 14745600
+CPU time: 23.4097 ms
+GPU time: 15.0557 ms
+
+Processing img228.jpg
+Pixels count: 15160651
+CPU time: 25.6386 ms
+GPU time: 14.5577 ms
+
+Processing img273.jpg
+Pixels count: 12486280
+CPU time: 20.3075 ms
+GPU time: 13.9621 ms
+
+Processing img197.jpg
+Pixels count: 10222848
+CPU time: 16.607 ms
+GPU time: 11.4495 ms
+
+Processing img470.jpg
+Pixels count: 12212224
+CPU time: 19.8677 ms
+GPU time: 11.571 ms
+
+Processing img134.jpg
+Pixels count: 14181900
+CPU time: 23.8865 ms
+GPU time: 13.2524 ms
+
+Processing img268.jpg
+Pixels count: 12212224
+CPU time: 20.0367 ms
+GPU time: 11.1939 ms
+
+Processing img078.jpg
+Pixels count: 22118400
+CPU time: 38.5471 ms
+GPU time: 21.979 ms
+
+Processing img072.jpg
+Pixels count: 11716640
+CPU time: 20.0111 ms
+GPU time: 12.8568 ms
+
+Processing img466.jpg
+Pixels count: 20627462
+CPU time: 33.7322 ms
+GPU time: 20.5169 ms
+
+Processing img304.jpg
+Pixels count: 15980544
+CPU time: 27.0912 ms
+GPU time: 17.2279 ms
+
+Processing img591.jpg
+Pixels count: 22118400
+CPU time: 38.2121 ms
+GPU time: 21.0251 ms
+
+Processing img154.jpg
+Pixels count: 15252987
+CPU time: 25.5979 ms
+GPU time: 13.553 ms
+
+Processing img223.jpg
+Pixels count: 15902304
+CPU time: 30.1561 ms
+GPU time: 13.27 ms
+
+Processing img104.jpg
+Pixels count: 16084992
+CPU time: 26.2744 ms
+GPU time: 13.1849 ms
+
+Processing img449.jpg
+Pixels count: 4478976
+CPU time: 7.06816 ms
+GPU time: 4.44272 ms
+
+Processing img357.jpg
+Pixels count: 11124816
+CPU time: 18.3951 ms
+GPU time: 9.61914 ms
+
+Processing img574.jpg
+Pixels count: 12719616
+CPU time: 20.7386 ms
+GPU time: 12.2635 ms
+
+Processing img302.jpg
+Pixels count: 15980544
+CPU time: 27.9245 ms
+GPU time: 15.983 ms
+
+Processing img113.jpg
+Pixels count: 22744854
+CPU time: 39.4764 ms
+GPU time: 26.65 ms
+
+Processing img570.jpg
+Pixels count: 8185344
+CPU time: 13.9494 ms
+GPU time: 8.06752 ms
+
+Processing img215.jpg
+Pixels count: 11153430
+CPU time: 18.6447 ms
+GPU time: 9.8729 ms
+
+Processing img326.jpg
+Pixels count: 24000000
+CPU time: 39.6522 ms
+GPU time: 22.6565 ms
+
+Processing img130.jpg
+Pixels count: 10588145
+CPU time: 17.4552 ms
+GPU time: 9.17242 ms
+
+Processing img261.jpg
+Pixels count: 15980544
+CPU time: 26.6255 ms
+GPU time: 15.5193 ms
+
+Processing img018.jpg
+Pixels count: 17915904
+CPU time: 30.0396 ms
+GPU time: 17.8487 ms
+
+Processing img505.jpg
+Pixels count: 24160256
+CPU time: 37.6188 ms
+GPU time: 23.8952 ms
+
+Processing img408.jpg
+Pixels count: 22118400
+CPU time: 35.0375 ms
+GPU time: 22.4124 ms
+
+Processing img425.jpg
+Pixels count: 22118400
+CPU time: 38.054 ms
+GPU time: 19.8619 ms
+
+Processing img265.jpg
+Pixels count: 8364993
+CPU time: 13.3326 ms
+GPU time: 7.48288 ms
+
+Processing img537.jpg
+Pixels count: 20350406
+CPU time: 34.4554 ms
+GPU time: 20.0534 ms
+
+Processing img101.jpg
+Pixels count: 16084992
+CPU time: 28.786 ms
+GPU time: 14.4584 ms
+
+Processing img390.jpg
+Pixels count: 24064000
+CPU time: 42.3663 ms
+GPU time: 25.2543 ms
+
+Processing img405.jpg
+Pixels count: 22118400
+CPU time: 36.3823 ms
+GPU time: 17.9396 ms
+
+Processing img037.jpg
+Pixels count: 16084992
+CPU time: 25.2761 ms
+GPU time: 13.4621 ms
+
+Processing img054.jpg
+Pixels count: 37509079
+CPU time: 61.8123 ms
+GPU time: 35.323 ms
+
+Processing img028.jpg
+Pixels count: 15057344
+CPU time: 24.9981 ms
+GPU time: 14.5125 ms
+
+Processing img348.jpg
+Pixels count: 24000000
+CPU time: 40.0452 ms
+GPU time: 23.2251 ms
+
+Processing img353.jpg
+Pixels count: 24000000
+CPU time: 39.9189 ms
+GPU time: 23.72 ms
+
+Processing img211.jpg
+Pixels count: 15980544
+CPU time: 26.3762 ms
+GPU time: 15.5658 ms
+
+Processing img515.jpg
+Pixels count: 21711321
+CPU time: 36.7071 ms
+GPU time: 22.3173 ms
+
+Processing img381.jpg
+Pixels count: 18742570
+CPU time: 31.5202 ms
+GPU time: 17.4347 ms
+
+Processing img478.jpg
+Pixels count: 13284858
+CPU time: 22.5712 ms
+GPU time: 13.4269 ms
+
+Processing img456.jpg
+Pixels count: 24000000
+CPU time: 39.5083 ms
+GPU time: 21.6243 ms
+
+Processing img379.jpg
+Pixels count: 11165696
+CPU time: 18.448 ms
+GPU time: 9.6079 ms
+
+Processing img171.jpg
+Pixels count: 15785304
+CPU time: 29.0335 ms
+GPU time: 22.9894 ms
+
+Processing img185.jpg
+Pixels count: 15980544
+CPU time: 27.7561 ms
+GPU time: 18.0467 ms
+
+Processing img033.jpg
+Pixels count: 14660780
+CPU time: 25.0134 ms
+GPU time: 12.7644 ms
+
+Processing img479.jpg
+Pixels count: 6530220
+CPU time: 11.3072 ms
+GPU time: 5.99293 ms
+
+Processing img517.jpg
+Pixels count: 22355181
+CPU time: 37.261 ms
+GPU time: 23.0547 ms
+
+Processing img236.jpg
+Pixels count: 13310172
+CPU time: 22.2346 ms
+GPU time: 20.1093 ms
+
+Processing img396.jpg
+Pixels count: 22118400
+CPU time: 36.9275 ms
+GPU time: 23.2967 ms
+
+Processing img418.jpg
+Pixels count: 22118400
+CPU time: 38.9977 ms
+GPU time: 21.7782 ms
+
+Processing img372.jpg
+Pixels count: 11176620
+CPU time: 18.4503 ms
+GPU time: 11.5419 ms
+
+Processing img254.jpg
+Pixels count: 15980544
+CPU time: 28.3838 ms
+GPU time: 14.4574 ms
+
+Processing img095.jpg
+Pixels count: 16084992
+CPU time: 25.3659 ms
+GPU time: 13.4879 ms
+
+Processing img270.jpg
+Pixels count: 14703176
+CPU time: 24.1984 ms
+GPU time: 13.8559 ms
+
+Processing img199.jpg
+Pixels count: 14601600
+CPU time: 22.9514 ms
+GPU time: 15.9947 ms
+
+Processing img561.jpg
+Pixels count: 12003447
+CPU time: 19.5843 ms
+GPU time: 10.6996 ms
+
+Processing img287.jpg
+Pixels count: 15980544
+CPU time: 26.9284 ms
+GPU time: 13.568 ms
+
+Processing img459.jpg
+Pixels count: 20357784
+CPU time: 32.9822 ms
+GPU time: 18.8422 ms
+
+Processing img386.jpg
+Pixels count: 2666000
+CPU time: 4.15066 ms
+GPU time: 2.75402 ms
+
+Processing img404.jpg
+Pixels count: 22118400
+CPU time: 36.9116 ms
+GPU time: 20.9264 ms
+
+Processing img499.jpg
+Pixels count: 19251450
+CPU time: 30.9019 ms
+GPU time: 20.37 ms
+
+Processing img227.jpg
+Pixels count: 13651925
+CPU time: 21.405 ms
+GPU time: 13.2167 ms
+
+Processing img208.jpg
+Pixels count: 15980544
+CPU time: 25.312 ms
+GPU time: 18.9308 ms
+
+Processing img181.jpg
+Pixels count: 11733415
+CPU time: 18.7752 ms
+GPU time: 10.1518 ms
+
+Processing img159.jpg
+Pixels count: 15980544
+CPU time: 25.4922 ms
+GPU time: 13.3096 ms
+
+Processing img413.jpg
+Pixels count: 2797568
+CPU time: 5.14102 ms
+GPU time: 3.73619 ms
+
+Processing img025.jpg
+Pixels count: 7990272
+CPU time: 12.6922 ms
+GPU time: 7.20848 ms
+
+Processing img545.jpg
+Pixels count: 8135139
+CPU time: 15.9468 ms
+GPU time: 7.29782 ms
+
+Processing img279.jpg
+Pixels count: 15980544
+CPU time: 27.8677 ms
+GPU time: 15.2554 ms
+
+Processing img117.jpg
+Pixels count: 22932150
+CPU time: 39.909 ms
+GPU time: 23.6479 ms
+
+Processing img547.jpg
+Pixels count: 12486280
+CPU time: 22.1304 ms
+GPU time: 12.379 ms
+
+Processing img497.jpg
+Pixels count: 15952812
+CPU time: 28.7275 ms
+GPU time: 16.8188 ms
+
+Processing img169.jpg
+Pixels count: 12207987
+CPU time: 22.9785 ms
+GPU time: 10.5868 ms
+
+Processing img576.jpg
+Pixels count: 12719616
+CPU time: 20.1972 ms
+GPU time: 14.5259 ms
+
+Processing img288.jpg
+Pixels count: 15980544
+CPU time: 30.2494 ms
+GPU time: 13.9831 ms
+
+Processing img429.jpg
+Pixels count: 22118400
+CPU time: 35.3325 ms
+GPU time: 19.2417 ms
+
+Processing img115.jpg
+Pixels count: 24000000
+CPU time: 38.1388 ms
+GPU time: 21.5076 ms
+
+Processing img295.jpg
+Pixels count: 15812890
+CPU time: 25.9106 ms
+GPU time: 14.905 ms
+
+Processing img439.jpg
+Pixels count: 22118400
+CPU time: 36.7438 ms
+GPU time: 21.4966 ms
+
+Processing img338.jpg
+Pixels count: 24000000
+CPU time: 38.4248 ms
+GPU time: 24.4113 ms
+
+Processing img091.jpg
+Pixels count: 16084992
+CPU time: 26.7061 ms
+GPU time: 15.1408 ms
+
+Processing img532.jpg
+Pixels count: 19402209
+CPU time: 31.4024 ms
+GPU time: 16.5121 ms
+
+Processing img141.jpg
+Pixels count: 15980544
+CPU time: 27.1921 ms
+GPU time: 13.3683 ms
+
+Processing img467.jpg
+Pixels count: 12212224
+CPU time: 19.2607 ms
+GPU time: 14.7054 ms
+
+Processing img602.jpg
+Pixels count: 20766901
+CPU time: 33.4644 ms
+GPU time: 21.8775 ms
+
+Processing img344.jpg
+Pixels count: 24000000
+CPU time: 38.7361 ms
+GPU time: 22.0691 ms
+
+Processing img493.jpg
+Pixels count: 6027027
+CPU time: 9.84397 ms
+GPU time: 5.48896 ms
+
+Processing img102.jpg
+Pixels count: 16084992
+CPU time: 25.2907 ms
+GPU time: 14.7286 ms
+
+Processing img378.jpg
+Pixels count: 5937576
+CPU time: 9.3319 ms
+GPU time: 5.38566 ms
+
+Processing img377.jpg
+Pixels count: 12037850
+CPU time: 18.9624 ms
+GPU time: 10.2714 ms
+
+Processing img133.jpg
+Pixels count: 15980544
+CPU time: 27.524 ms
+GPU time: 14.8361 ms
+
+Processing img195.jpg
+Pixels count: 15980544
+CPU time: 25.3478 ms
+GPU time: 13.1994 ms
+
+Processing img436.jpg
+Pixels count: 22118400
+CPU time: 35.479 ms
+GPU time: 19.1726 ms
+
+Processing img463.jpg
+Pixels count: 24000000
+CPU time: 43.3507 ms
+GPU time: 23.8824 ms
+
+Processing img518.jpg
+Pixels count: 20553496
+CPU time: 33.3854 ms
+GPU time: 18.594 ms
+
+Processing img443.jpg
+Pixels count: 16776848
+CPU time: 26.6723 ms
+GPU time: 14.1377 ms
+
+Processing img486.jpg
+Pixels count: 7926947
+CPU time: 12.4035 ms
+GPU time: 7.08038 ms
+
+Processing img152.jpg
+Pixels count: 23832294
+CPU time: 40.4236 ms
+GPU time: 20.5654 ms
+
+Processing img121.jpg
+Pixels count: 15980544
+CPU time: 25.9271 ms
+GPU time: 15.0978 ms
+
+Processing img073.jpg
+Pixels count: 19961856
+CPU time: 32.026 ms
+GPU time: 17.7812 ms
+
+Processing img508.jpg
+Pixels count: 24160256
+CPU time: 39.8239 ms
+GPU time: 26.8365 ms
+
+Processing img125.jpg
+Pixels count: 15980544
+CPU time: 27.4309 ms
+GPU time: 15.1984 ms
+
+Processing img194.jpg
+Pixels count: 15980544
+CPU time: 26.197 ms
+GPU time: 13.2886 ms
+
+Processing img047.jpg
+Pixels count: 19715904
+CPU time: 31.3706 ms
+GPU time: 17.2524 ms
+
+Processing img234.jpg
+Pixels count: 15688134
+CPU time: 26.3423 ms
+GPU time: 14.9831 ms
+
+Processing img260.jpg
+Pixels count: 14838110
+CPU time: 23.5442 ms
+GPU time: 14.3156 ms
+
+Processing img601.jpg
+Pixels count: 21215801
+CPU time: 34.8416 ms
+GPU time: 20.7042 ms
+
+Processing img465.jpg
+Pixels count: 8874140
+CPU time: 14.3263 ms
+GPU time: 9.29363 ms
+
+Processing img434.jpg
+Pixels count: 22118400
+CPU time: 36.2171 ms
+GPU time: 19.9375 ms
+
+Processing img352.jpg
+Pixels count: 24000000
+CPU time: 40.2859 ms
+GPU time: 22.0923 ms
+
+Processing img124.jpg
+Pixels count: 16142593
+CPU time: 26.4575 ms
+GPU time: 13.9343 ms
+
+Processing img359.jpg
+Pixels count: 11176620
+CPU time: 17.6891 ms
+GPU time: 9.61187 ms
+
+Processing img567.jpg
+Pixels count: 7990272
+CPU time: 13.2996 ms
+GPU time: 6.93402 ms
+
+Processing img322.jpg
+Pixels count: 24000000
+CPU time: 39.0953 ms
+GPU time: 20.562 ms
+
+Processing img005.jpg
+Pixels count: 7990272
+CPU time: 13.7328 ms
+GPU time: 7.1039 ms
+
+Processing img120.jpg
+Pixels count: 15980544
+CPU time: 26.2206 ms
+GPU time: 14.0076 ms
+
+Processing img004.jpg
+Pixels count: 7990272
+CPU time: 13.0852 ms
+GPU time: 7.83866 ms
+
+Processing img525.jpg
+Pixels count: 14155776
+CPU time: 25.0388 ms
+GPU time: 14.235 ms
+
+Processing img243.jpg
+Pixels count: 14853840
+CPU time: 24.4473 ms
+GPU time: 14.1773 ms
+
+Processing img446.jpg
+Pixels count: 16776848
+CPU time: 26.1323 ms
+GPU time: 18.3897 ms
+
+Processing img110.jpg
+Pixels count: 7051800
+CPU time: 11.9552 ms
+GPU time: 6.50384 ms
+
+Processing img433.jpg
+Pixels count: 16776848
+CPU time: 26.7895 ms
+GPU time: 13.9214 ms
+
+Processing img354.jpg
+Pixels count: 24000000
+CPU time: 38.1223 ms
+GPU time: 23.0032 ms
+
+Processing img150.jpg
+Pixels count: 15444917
+CPU time: 26.3667 ms
+GPU time: 13.5941 ms
+
+Processing img027.jpg
+Pixels count: 37500000
+CPU time: 61.381 ms
+GPU time: 37.9789 ms
+
+Processing img064.jpg
+Pixels count: 11740268
+CPU time: 18.8096 ms
+GPU time: 10.919 ms
+
+Processing img388.jpg
+Pixels count: 24064000
+CPU time: 39.7229 ms
+GPU time: 21.5362 ms
+
+Processing img207.jpg
+Pixels count: 11725248
+CPU time: 18.6179 ms
+GPU time: 9.83939 ms
+
+Processing img035.jpg
+Pixels count: 12709426
+CPU time: 21.7202 ms
+GPU time: 12.3957 ms
+
+Processing img058.jpg
+Pixels count: 42177408
+CPU time: 70.4307 ms
+GPU time: 36.612 ms
+
+Processing img361.jpg
+Pixels count: 19961856
+CPU time: 33.5975 ms
+GPU time: 19.7141 ms
+
+Processing img409.jpg
+Pixels count: 22118400
+CPU time: 36.8412 ms
+GPU time: 20.8851 ms
+
+Processing img442.jpg
+Pixels count: 16776848
+CPU time: 28.7553 ms
+GPU time: 14.7055 ms
+
+Processing img342.jpg
+Pixels count: 24000000
+CPU time: 40.0683 ms
+GPU time: 22.1109 ms
+
+Processing img162.jpg
+Pixels count: 22049334
+CPU time: 40.4371 ms
+GPU time: 21.3385 ms
+
+Processing img282.jpg
+Pixels count: 15980544
+CPU time: 25.6437 ms
+GPU time: 13.2992 ms
+
+Processing img021.jpg
+Pixels count: 17915904
+CPU time: 31.5684 ms
+GPU time: 17.5368 ms
+
+Processing img043.jpg
+Pixels count: 44706144
+CPU time: 75.8933 ms
+GPU time: 48.9695 ms
+
+Processing img536.jpg
+Pixels count: 24160256
+CPU time: 40.3 ms
+GPU time: 21.7807 ms
+
+Processing img365.jpg
+Pixels count: 11180714
+CPU time: 19.3457 ms
+GPU time: 9.66992 ms
+
+Processing img328.jpg
+Pixels count: 24000000
+CPU time: 38.7548 ms
+GPU time: 26.2896 ms
+
+Processing img056.jpg
+Pixels count: 37586592
+CPU time: 62.3791 ms
+GPU time: 44.6959 ms
+
+Processing img454.jpg
+Pixels count: 12212224
+CPU time: 19.0893 ms
+GPU time: 11.5343 ms
+
+Processing img473.jpg
+Pixels count: 16163840
+CPU time: 27.1269 ms
+GPU time: 19.3423 ms
+
+Processing img350.jpg
+Pixels count: 24000000
+CPU time: 43.9788 ms
+GPU time: 25.5472 ms
+
+Processing img009.jpg
+Pixels count: 17915904
+CPU time: 28.5199 ms
+GPU time: 15.6202 ms
+
+Processing img249.jpg
+Pixels count: 15812890
+CPU time: 27.0218 ms
+GPU time: 14.342 ms
+
+Processing img147.jpg
+Pixels count: 21170695
+CPU time: 35.0195 ms
+GPU time: 22.437 ms
+
+Processing img253.jpg
+Pixels count: 15583205
+CPU time: 25.2328 ms
+GPU time: 13.0679 ms
+
+Processing img564.jpg
+Pixels count: 12719616
+CPU time: 22.0648 ms
+GPU time: 11.6692 ms
+
+Processing img323.jpg
+Pixels count: 24000000
+CPU time: 40.7987 ms
+GPU time: 22.1678 ms
+
+Processing img444.jpg
+Pixels count: 16776848
+CPU time: 27.1892 ms
+GPU time: 20.0628 ms
+
+Processing img011.jpg
+Pixels count: 17915904
+CPU time: 33.2017 ms
+GPU time: 17.1274 ms
+
+Processing img069.jpg
+Pixels count: 11750202
+CPU time: 22.6267 ms
+GPU time: 10.9236 ms
+
+Processing img358.jpg
+Pixels count: 11176620
+CPU time: 18.7518 ms
+GPU time: 12.5016 ms
+
+Processing img061.jpg
+Pixels count: 11829248
+CPU time: 19.8562 ms
+GPU time: 11.8459 ms
+
+Processing img423.jpg
+Pixels count: 22118400
+CPU time: 34.4244 ms
+GPU time: 18.1361 ms
+
+Processing img538.jpg
+Pixels count: 15483440
+CPU time: 25.4652 ms
+GPU time: 17.347 ms
+
+Processing img245.jpg
+Pixels count: 15980544
+CPU time: 27.1058 ms
+GPU time: 13.4911 ms
+
+Processing img233.jpg
+Pixels count: 15910445
+CPU time: 26.1882 ms
+GPU time: 17.5695 ms
+
+Processing img389.jpg
+Pixels count: 22527270
+CPU time: 38.3473 ms
+GPU time: 23.4753 ms
+
+Processing img259.jpg
+Pixels count: 11501004
+CPU time: 19.805 ms
+GPU time: 9.82262 ms
+
+Processing img535.jpg
+Pixels count: 21743670
+CPU time: 35.5827 ms
+GPU time: 25.3071 ms
+
+Processing img458.jpg
+Pixels count: 23796000
+CPU time: 37.3541 ms
+GPU time: 25.6111 ms
+
+Processing img051.jpg
+Pixels count: 42177408
+CPU time: 69.5351 ms
+GPU time: 36.6464 ms
+
+Processing img224.jpg
+Pixels count: 9106944
+CPU time: 16.2734 ms
+GPU time: 8.14989 ms
+
+Processing img347.jpg
+Pixels count: 24000000
+CPU time: 47.2823 ms
+GPU time: 20.7792 ms
+
+Processing img334.jpg
+Pixels count: 24000000
+CPU time: 38.6269 ms
+GPU time: 19.6137 ms
+
+Processing img398.jpg
+Pixels count: 22118400
+CPU time: 36.4987 ms
+GPU time: 21.8734 ms
+
+Processing img283.jpg
+Pixels count: 15980544
+CPU time: 25.7441 ms
+GPU time: 20.4751 ms
+
+Processing img549.jpg
+Pixels count: 9015996
+CPU time: 14.8992 ms
+GPU time: 10.7187 ms
+
+Processing img039.jpg
+Pixels count: 12463074
+CPU time: 20.5177 ms
+GPU time: 11.6902 ms
+
+Processing img427.jpg
+Pixels count: 22118400
+CPU time: 35.2976 ms
+GPU time: 26.6885 ms
+
+Processing img462.jpg
+Pixels count: 10328064
+CPU time: 15.5758 ms
+GPU time: 9.23856 ms
+
+Processing img010.jpg
+Pixels count: 17915904
+CPU time: 28.7526 ms
+GPU time: 21.1075 ms
+
+Processing img450.jpg
+Pixels count: 8568903
+CPU time: 13.2321 ms
+GPU time: 10.2243 ms
+
+Processing img447.jpg
+Pixels count: 7102464
+CPU time: 11.7623 ms
+GPU time: 7.9776 ms
+
+Processing img105.jpg
+Pixels count: 16084992
+CPU time: 26.6671 ms
+GPU time: 13.7618 ms
+
+Processing img214.jpg
+Pixels count: 15890910
+CPU time: 25.0999 ms
+GPU time: 13.5927 ms
+
+Processing img375.jpg
+Pixels count: 15113664
+CPU time: 24.7334 ms
+GPU time: 14.2052 ms
+
+Processing img109.jpg
+Pixels count: 15980544
+CPU time: 25.7329 ms
+GPU time: 14.9462 ms
+
+Processing img178.jpg
+Pixels count: 15122525
+CPU time: 24.4867 ms
+GPU time: 13.8163 ms
+
+Processing img257.jpg
+Pixels count: 11913055
+CPU time: 18.8275 ms
+GPU time: 10.2322 ms
+
+Processing img431.jpg
+Pixels count: 22118400
+CPU time: 37.4682 ms
+GPU time: 19.4692 ms
+
+Processing img131.jpg
+Pixels count: 9353762
+CPU time: 15.7259 ms
+GPU time: 13.2984 ms
+
+Processing img297.jpg
+Pixels count: 15980544
+CPU time: 25.2676 ms
+GPU time: 17.4297 ms
+
+Processing img337.jpg
+Pixels count: 24000000
+CPU time: 40.5006 ms
+GPU time: 23.0988 ms
+
+Processing img453.jpg
+Pixels count: 12212224
+CPU time: 19.543 ms
+GPU time: 15.1442 ms
+
+Processing img052.jpg
+Pixels count: 41778006
+CPU time: 67.9431 ms
+GPU time: 38.5828 ms
+
+Processing img193.jpg
+Pixels count: 15980544
+CPU time: 25.6124 ms
+GPU time: 19.4072 ms
+
+Processing img509.jpg
+Pixels count: 24160256
+CPU time: 40.3986 ms
+GPU time: 24.6675 ms
+
+Processing img542.jpg
+Pixels count: 12719616
+CPU time: 20.4428 ms
+GPU time: 15.296 ms
+
+Processing img305.jpg
+Pixels count: 14759585
+CPU time: 24.5495 ms
+GPU time: 13.9351 ms
+
+Processing img320.jpg
+Pixels count: 24000000
+CPU time: 40.6488 ms
+GPU time: 25.846 ms
+
+Processing img085.jpg
+Pixels count: 17915904
+CPU time: 30.066 ms
+GPU time: 15.5903 ms
+
+Processing img205.jpg
+Pixels count: 15541332
+CPU time: 25.7821 ms
+GPU time: 14.713 ms
+
+Processing img495.jpg
+Pixels count: 10924192
+CPU time: 18.2015 ms
+GPU time: 11.0328 ms
+
+Processing img417.jpg
+Pixels count: 22118400
+CPU time: 35.8186 ms
+GPU time: 18.0531 ms
+
+Processing img210.jpg
+Pixels count: 15980544
+CPU time: 24.9556 ms
+GPU time: 13.2905 ms
+
+Processing img248.jpg
+Pixels count: 12212224
+CPU time: 23.3191 ms
+GPU time: 16.5189 ms
+
+Processing img209.jpg
+Pixels count: 4098600
+CPU time: 7.06803 ms
+GPU time: 4.75341 ms
+
+Processing img240.jpg
+Pixels count: 15533286
+CPU time: 28.2963 ms
+GPU time: 13.5279 ms
+
+Processing img183.jpg
+Pixels count: 15100307
+CPU time: 26.4215 ms
+GPU time: 13.0364 ms
+
+Processing img526.jpg
+Pixels count: 24160256
+CPU time: 40.8502 ms
+GPU time: 20.3788 ms
+
+Processing img241.jpg
+Pixels count: 15980544
+CPU time: 27.6034 ms
+GPU time: 14.3986 ms
+
+Processing img543.jpg
+Pixels count: 12719616
+CPU time: 21.405 ms
+GPU time: 13.6228 ms
+
+Processing img230.jpg
+Pixels count: 15812890
+CPU time: 28.6937 ms
+GPU time: 17.6408 ms
+
+Processing img588.jpg
+Pixels count: 14745600
+CPU time: 23.987 ms
+GPU time: 14.7696 ms
+
+Processing img324.jpg
+Pixels count: 24000000
+CPU time: 41.3533 ms
+GPU time: 21.6124 ms
+
+Processing img368.jpg
+Pixels count: 19289094
+CPU time: 31.7993 ms
+GPU time: 16.8605 ms
+
+Processing img573.jpg
+Pixels count: 12719616
+CPU time: 20.9106 ms
+GPU time: 16.9017 ms
+
+Processing img296.jpg
+Pixels count: 15980544
+CPU time: 28.0218 ms
+GPU time: 16.354 ms
+
+Processing img114.jpg
+Pixels count: 15168600
+CPU time: 25.5388 ms
+GPU time: 15.6006 ms
+
+Processing img494.jpg
+Pixels count: 11270985
+CPU time: 19.985 ms
+GPU time: 9.56211 ms
+
+Processing img301.jpg
+Pixels count: 15195642
+CPU time: 25.1331 ms
+GPU time: 16.7753 ms
+
+Processing img482.jpg
+Pixels count: 10799068
+CPU time: 17.4029 ms
+GPU time: 11.2769 ms
+
+Processing img157.jpg
+Pixels count: 15726966
+CPU time: 24.9883 ms
+GPU time: 15.1016 ms
+
+Processing img415.jpg
+Pixels count: 2795520
+CPU time: 4.40685 ms
+GPU time: 2.81146 ms
+
+Processing img222.jpg
+Pixels count: 15980544
+CPU time: 26.3316 ms
+GPU time: 14.733 ms
+
+Processing img184.jpg
+Pixels count: 15980544
+CPU time: 25.0273 ms
+GPU time: 13.1653 ms
+
+Processing img452.jpg
+Pixels count: 24000000
+CPU time: 37.5136 ms
+GPU time: 20.1977 ms
+
+Processing img237.jpg
+Pixels count: 9545738
+CPU time: 14.6438 ms
+GPU time: 8.18122 ms
+
+Processing img387.jpg
+Pixels count: 24064000
+CPU time: 38.5589 ms
+GPU time: 19.3528 ms
+
+Processing img041.jpg
+Pixels count: 36851815
+CPU time: 57.2165 ms
+GPU time: 34.5982 ms
+
+Processing img445.jpg
+Pixels count: 16776848
+CPU time: 26.6945 ms
+GPU time: 15.3116 ms
+
+Processing img292.jpg
+Pixels count: 15980544
+CPU time: 24.9701 ms
+GPU time: 13.7561 ms
+
+Processing img225.jpg
+Pixels count: 12859776
+CPU time: 20.3872 ms
+GPU time: 10.8675 ms
+
+Processing img182.jpg
+Pixels count: 14830088
+CPU time: 23.2819 ms
+GPU time: 13.774 ms
+
+Processing img255.jpg
+Pixels count: 15980544
+CPU time: 26.2256 ms
+GPU time: 16.1669 ms
+
+Processing img530.jpg
+Pixels count: 24160256
+CPU time: 39.3062 ms
+GPU time: 21.0834 ms
+
+Processing img300.jpg
+Pixels count: 10365966
+CPU time: 17.0077 ms
+GPU time: 11.5646 ms
+
+Processing img330.jpg
+Pixels count: 24000000
+CPU time: 39.3593 ms
+GPU time: 21.7227 ms
+
+Processing img438.jpg
+Pixels count: 22118400
+CPU time: 35.0454 ms
+GPU time: 19.5395 ms
+
+Processing img607.jpg
+Pixels count: 21026304
+CPU time: 34.6306 ms
+GPU time: 20.2569 ms
+
+Processing img376.jpg
+Pixels count: 19961856
+CPU time: 33.1178 ms
+GPU time: 17.8821 ms
+
+Processing img345.jpg
+Pixels count: 24000000
+CPU time: 39.2317 ms
+GPU time: 21.544 ms
+
+Processing img140.jpg
+Pixels count: 15980544
+CPU time: 27.5157 ms
+GPU time: 17.4457 ms
+
+Processing img340.jpg
+Pixels count: 24000000
+CPU time: 40.1877 ms
+GPU time: 24.6308 ms
+
+Processing img070.jpg
+Pixels count: 13248690
+CPU time: 22.4064 ms
+GPU time: 11.8245 ms
+
+Processing img022.jpg
+Pixels count: 17915904
+CPU time: 28.7049 ms
+GPU time: 21.2396 ms
+
+Processing img583.jpg
+Pixels count: 13248690
+CPU time: 22.4419 ms
+GPU time: 15.3703 ms
+
+Processing img262.jpg
+Pixels count: 12031712
+CPU time: 19.9527 ms
+GPU time: 10.6514 ms
+
+Processing img587.jpg
+Pixels count: 19019301
+CPU time: 42.327 ms
+GPU time: 20.4525 ms
+
+Processing img165.jpg
+Pixels count: 15980544
+CPU time: 31.5862 ms
+GPU time: 15.0465 ms
+
+Processing img096.jpg
+Pixels count: 16084992
+CPU time: 28.1006 ms
+GPU time: 18.3216 ms
+
+Processing img026.jpg
+Pixels count: 27000000
+CPU time: 46.5829 ms
+GPU time: 25.798 ms
+
+Processing img400.jpg
+Pixels count: 22118400
+CPU time: 36.0791 ms
+GPU time: 23.8152 ms
+
+Processing img402.jpg
+Pixels count: 22118400
+CPU time: 39.1595 ms
+GPU time: 27.7526 ms
+
+Processing img383.jpg
+Pixels count: 19961856
+CPU time: 32.4412 ms
+GPU time: 17.1547 ms
+
+Processing img198.jpg
+Pixels count: 15980544
+CPU time: 27.0567 ms
+GPU time: 13.4671 ms
+
+Processing img219.jpg
+Pixels count: 15629976
+CPU time: 23.9281 ms
+GPU time: 14.5361 ms
+
+Processing img163.jpg
+Pixels count: 12542860
+CPU time: 21.5135 ms
+GPU time: 11.326 ms
+
+Processing img155.jpg
+Pixels count: 15718872
+CPU time: 25.9938 ms
+GPU time: 13.5204 ms
+
+Processing img166.jpg
+Pixels count: 15980544
+CPU time: 25.7968 ms
+GPU time: 14.791 ms
+
+Processing img407.jpg
+Pixels count: 22118400
+CPU time: 36.2754 ms
+GPU time: 18.6035 ms
+
+Processing img112.jpg
+Pixels count: 22838406
+CPU time: 38.8969 ms
+GPU time: 21.3414 ms
+
+Processing img399.jpg
+Pixels count: 22118400
+CPU time: 37.3239 ms
+GPU time: 24.1194 ms
+
+Processing img541.jpg
+Pixels count: 12013350
+CPU time: 18.5765 ms
+GPU time: 10.2007 ms
+
+Processing img519.jpg
+Pixels count: 24160256
+CPU time: 40.2201 ms
+GPU time: 26.8189 ms
+
+Processing img371.jpg
+Pixels count: 11176620
+CPU time: 18.029 ms
+GPU time: 11.0748 ms
+
+Processing img480.jpg
+Pixels count: 7055752
+CPU time: 11.0623 ms
+GPU time: 8.54176 ms
+
+Processing img594.jpg
+Pixels count: 18912626
+CPU time: 30.4496 ms
+GPU time: 23.279 ms
+
+Processing img294.jpg
+Pixels count: 15980544
+CPU time: 26.4495 ms
+GPU time: 14.6336 ms
+
+Processing img082.jpg
+Pixels count: 22118400
+CPU time: 34.8181 ms
+GPU time: 23.9788 ms
+
+Processing img242.jpg
+Pixels count: 15130464
+CPU time: 24.0977 ms
+GPU time: 14.06 ms
+
+Processing img190.jpg
+Pixels count: 14872727
+CPU time: 23.3268 ms
+GPU time: 14.057 ms
+
+Processing img030.jpg
+Pixels count: 16084992
+CPU time: 26.35 ms
+GPU time: 14.0108 ms
+
+Processing img276.jpg
+Pixels count: 15980544
+CPU time: 25.9553 ms
+GPU time: 13.0729 ms
+
+Processing img559.jpg
+Pixels count: 11010720
+CPU time: 18.0101 ms
+GPU time: 9.35574 ms
+
+Processing img118.jpg
+Pixels count: 23484795
+CPU time: 39.3579 ms
+GPU time: 22.0738 ms
+
+Processing img578.jpg
+Pixels count: 8185344
+CPU time: 12.8416 ms
+GPU time: 7.05978 ms
+
+Processing img006.jpg
+Pixels count: 11228544
+CPU time: 17.9309 ms
+GPU time: 9.67229 ms
+
+Processing img336.jpg
+Pixels count: 24000000
+CPU time: 39.472 ms
+GPU time: 25.3041 ms
+
+Processing img516.jpg
+Pixels count: 23548135
+CPU time: 39.2858 ms
+GPU time: 26.1605 ms
+
+Processing img221.jpg
+Pixels count: 11637080
+CPU time: 20.0408 ms
+GPU time: 9.92509 ms
+
+Processing img488.jpg
+Pixels count: 13683612
+CPU time: 21.7167 ms
+GPU time: 11.7701 ms
+
+Processing img149.jpg
+Pixels count: 16701685
+CPU time: 27.9221 ms
+GPU time: 17.3743 ms
+
+Processing img046.jpg
+Pixels count: 21026304
+CPU time: 33.6962 ms
+GPU time: 22.668 ms
+
+Processing img419.jpg
+Pixels count: 22118400
+CPU time: 36.6315 ms
+GPU time: 19.2723 ms
+
+Processing img598.jpg
+Pixels count: 17915904
+CPU time: 29.6004 ms
+GPU time: 16.5097 ms
+
+Processing img060.jpg
+Pixels count: 11470823
+CPU time: 18.2532 ms
+GPU time: 10.952 ms
+
+Processing img014.jpg
+Pixels count: 16633350
+CPU time: 26.4026 ms
+GPU time: 14.9193 ms
+
+Images processing completed
